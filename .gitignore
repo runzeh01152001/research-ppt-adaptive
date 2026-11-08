@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Test artifacts
+test_outputs/
+review_test_*/
+*_test_*/
+.pytest_cache/
+
+# Editor
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
+
+# Generated working files
+*.log
+baseline.json
+audit*.json
+review*.json
+plan*.json
+mapping*.json
+!tests/fixtures/*.json
+
+# Office temp
+~$*.pptx
+~$*.docx
+
+# Large local assets — never publish decks, figures, or PDFs of real research
+*.pptx
+*.ppt
+*.pdf
+!**/example_asset.txt
+*.png
+*.jpg
+*.jpeg
+*.PNG
+*.JPG
