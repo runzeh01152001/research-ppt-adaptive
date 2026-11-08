@@ -42,3 +42,6 @@ mapping*.json
 *.jpeg
 *.PNG
 *.JPG
+
+# 例外：README 用的合成示意图（无真实研究数据，可公开）
+!docs/*.png
