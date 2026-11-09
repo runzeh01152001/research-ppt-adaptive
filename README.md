@@ -6,9 +6,6 @@
 
 不是"不套模板"，是**知道哪一层该保、哪一层该改**。
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![Python](https://img.shields.io/badge/python-3.9%2B-blue.svg)](requirements.txt)
-[![Checks](https://img.shields.io/badge/checks-144%20passed-brightgreen.svg)](#为什么能信)
 
 
 ![硬套模板 vs 自适应重排](docs/compare.png)
